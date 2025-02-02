@@ -3,7 +3,7 @@ import { ApiReference } from '@scalar/nextjs-api-reference';
 
 const config = {
   spec: {
-    url: './public/openapi.json',
+    url: './public/openapi.ymal',
   },
 };
 
